@@ -2,7 +2,7 @@ class Test
 {
 	public static void main(String[] args) throws Exception
 	{
-		gogogogogogogogogogogogogogogogogogogogogogogog
+		1111112131321321312312321231312321
 		
 	}
 }
